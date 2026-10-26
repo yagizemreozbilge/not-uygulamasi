@@ -3,3 +3,10 @@
 3. cd - Dizin değiştirir.
 4. mkdir - Yeni klasör oluşturur.
 5. touch - Yeni bir dosya oluşturur.
+
+Hafta 2 - Git Komutları:
+1. git status - Çalışma dizinindeki ve staging alanındaki değişiklikleri gösterir.
+2. git add - Dosyaları staging area'ya ekler.
+3. git commit - Değişiklikleri commit olarak kaydeder.
+4. git branch - Branch'leri listeler.
+5. git log --oneline - Commit geçmişini kısa biçimde gösterir.
